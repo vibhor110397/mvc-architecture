@@ -1,0 +1,32 @@
+{
+  "name": "mvc-architecture",
+  "version": "1.0.0",
+  "description": "Basic structure ",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "lint": "eslint --fix --ext .js ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vibhor110397/mvc-architecture.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vibhor110397/mvc-architecture/issues"
+  },
+  "homepage": "https://github.com/vibhor110397/mvc-architecture#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1167.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "helmet": "^5.1.0",
+    "moment": "^2.29.3",
+    "mongoose": "^6.4.2",
+    "swagger-ui-express": "^4.4.0",
+    "uuid": "^8.3.2",
+    "winston": "^3.8.1"
+  }
+}

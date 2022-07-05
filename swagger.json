@@ -1,0 +1,10 @@
+{
+    "openapi": "3.0.2",
+    "info": {
+      "title": "Datafeed",
+      "description": "API description for data-feeds.",
+      "version": "1.0.5"
+    },
+    "host": "localhost:3000",
+    "basePath": "/"
+  }
